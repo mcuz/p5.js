@@ -8,6 +8,15 @@
   "commit": true,
   "contributors": [
     {
+      "login": "mcuz",
+      "name": "marcus ureilius",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/44824130?s=40&v=4",
+      "profile": "https://avatars3.githubusercontent.com/u/44824130?s=40&v=4",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "lmccart",
       "name": "Lauren McCarthy",
       "avatar_url": "https://avatars3.githubusercontent.com/u/191056?v=4",
